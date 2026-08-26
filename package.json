@@ -1,0 +1,12 @@
+{
+  "name": "notemate",
+  "version": "1.0.0",
+  "description": "A minimalist notes app for capturing thoughts and ideas directly in the browser.",
+  "main": "index.html",
+  "scripts": {
+    "start": "npx serve ."
+  },
+  "dependencies": {
+    "serve": "^13.0.0"
+  }
+}
